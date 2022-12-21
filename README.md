@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vityam01
 - 👀 I’m interested in IOS dev
-- 🌱 I’m currently learning Swift 
+- 🌱 I’m currently work with Swift, swiftUI
 - 📫 How to reach me vitya1808200162@gmail.com
 
 <!---
